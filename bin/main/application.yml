@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: message-service
+  security:
+    user:
+      name: admin
+      password: secret
