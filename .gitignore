@@ -5,6 +5,13 @@ build/
 !**/src/main/**
 !**/src/test/**
 
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+
 ### STS ###
 .apt_generated
 .classpath
@@ -30,3 +37,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+/.metadata/
+
+/message-service/bin
